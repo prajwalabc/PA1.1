@@ -5,8 +5,6 @@ In this exercise you'll work on making changes to a git repository locally and p
 ## Task 1 Edit files
 
 Now let's make an edit locally. The benefit from working locally is that you can use other software and that you can edit multiple files together in a single commit. Our first edit will be some text here:
-
-randomtext123
  
 Open the directory of your local repository (from VS code itself or click 'Open in Visual Studio Code in GitHub Desktop) to edit this file. Make sure to open the full directory, not just this single file!
 
